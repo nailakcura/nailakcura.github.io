@@ -5,7 +5,7 @@ description: [A short description of your site's purpose]
 
 fixed_navbar: top
 
-- name: Page Name
-  link: /page-1/
+- name: Contents
+  link: /contents/
 - name: Blog
   link: /blog/
