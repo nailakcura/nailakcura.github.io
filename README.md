@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## COURSES LIST
+
+You can reach to the updated course contents following the related course links below.
 
 You can use the [editor on GitHub](https://github.com/nailakcura/nailakcura.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
