@@ -15,7 +15,7 @@ Weekly outlines and the contents for each week are included with the following w
 |Course Week|Contents|
 |--|--|
 |  0  |[General outline about the course](https://nailakcura.github.io/w0.pdf)|
-|  1  |[Introduction to Industrial Automation](https://nailakcura.github.io/Industrial_Automation/w1_introduction.pdf)|
+|  1  |[Introduction to Industrial Automation](https://github.com/nailakcura/nailakcura.github.io/blob/main/Industrial_Automation/w1_introduction.pdf)|
 |  2  |[Elements of Industrial Automation](https://nailakcura.github.io/w2.pdf)|
 |  3  |[Elements of Industrial Automation](https://nailakcura.github.io/w3.pdf)|
 |  4  |[Elements of Industrial Automation](https://nailakcura.github.io/w4.pdf)|
